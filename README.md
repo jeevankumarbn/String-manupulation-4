@@ -1,2 +1,2 @@
-# String-manupulation-4
-Escape Sequence Practice: Write a Python program that uses escape sequences to print the following output:  Example:  Hello     World This is a backslash: \
+print("Hello\n World")
+print("This is a backslash: \\")
